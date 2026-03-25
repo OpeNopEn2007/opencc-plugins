@@ -25,7 +25,7 @@
 
 ```bash
 # 安装 ArkTS 开发辅助插件
-/plugin install arkts-patterns@OpeNopEn
+/plugin install arkts-patterns@opencc-plugins
 ```
 
 ---
@@ -53,7 +53,7 @@ HarmonyOS NEXT (API 12+) ArkTS 开发模式与最佳实践。
 ## 更新市场
 
 ```bash
-/plugin marketplace update OpeNopEn
+/plugin marketplace update opencc-plugins
 ```
 
 ---
