@@ -14,8 +14,8 @@
         "source": "github",
         "repo": "OpeNopEn2007/arkts-patterns"
       },
-      "description": "ArkTS 开发模式与 HarmonyOS NEXT 最佳实践 - 状态管理、导航、网络请求、数据持久化、动画手势、官方 EmptyAbility 模板",
-      "version": "2.2.0",
+      "description": "ArkTS/HarmonyOS NEXT 开发模式与最佳实践 - 状态管理、导航、网络、持久化、并发、动画、EmptyAbility 脚手架、Agent 可读 API 参考索引（110+ 条目）",
+      "version": "2.3.0",
       "author": {
         "name": "OpeNopEn2007"
       },
